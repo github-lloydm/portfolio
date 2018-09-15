@@ -1,11 +1,11 @@
 <?php 
 
 /*
-    The text here was remove
-    HELLO WORLD!
     This is just a simple exercises.
 	write a function, that check if a number container a sorted array
 */
+
+include 'init-var.php';
 
 // Function that returns true if array is
 // sorted in non-decreasing order.
@@ -51,8 +51,8 @@ function my_shuffle($arr = array()){
 	return $arr[mt_rand(0, count($arr) - 1)];
 }
 
-$arr = array('lloyd','kr','bingol','cartoons','korn');
 
-echo '<pre>' . print_r(my_shuffle($arr), true) . '</pre>';
+
+echo '<pre>' . print_r($arr, true) . '</pre>';
 
 
