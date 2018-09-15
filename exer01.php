@@ -1,7 +1,7 @@
 <?php 
 
 /*
-    LIFE IS WONDERFUL FULL OF UNEXPECTED HAPPENINGS.
+    The text here was remove
     HELLO WORLD!
     This is just a simple exercises.
 	write a function, that check if a number container a sorted array
