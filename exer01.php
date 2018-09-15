@@ -1,6 +1,8 @@
 <?php 
 
 /*
+    HELLO WORLD!
+    This is just a simple exercises.
 	write a function, that check if a number container a sorted array
 */
 
